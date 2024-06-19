@@ -1,3 +1,10 @@
 [gd_scene format=2]
 
 [node name="MainMenu" type="Node2D"]
+
+[node name="Button" type="Button" parent="."]
+margin_left = 215.0
+margin_top = 105.0
+margin_right = 274.0
+margin_bottom = 125.0
+text = "Play"
